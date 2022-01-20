@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\bin\Debug\net6.0\Lesson8CsharpHW.exe
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\bin\Debug\net6.0\Lesson8CsharpHW.deps.json
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\bin\Debug\net6.0\Lesson8CsharpHW.runtimeconfig.json
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\bin\Debug\net6.0\Lesson8CsharpHW.dll
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\bin\Debug\net6.0\ref\Lesson8CsharpHW.dll
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\bin\Debug\net6.0\Lesson8CsharpHW.pdb
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\Lesson8CsharpHW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\Lesson8CsharpHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\Lesson8CsharpHW.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\Lesson8CsharpHW.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\Lesson8CsharpHW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\Lesson8CsharpHW.dll
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\ref\Lesson8CsharpHW.dll
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\Lesson8CsharpHW.pdb
+C:\Users\User\Desktop\C#\Lesson8CsharpHW\Lesson8CsharpHW\obj\Debug\net6.0\Lesson8CsharpHW.genruntimeconfig.cache

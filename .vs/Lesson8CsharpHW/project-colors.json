@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbbbc7fd-d6e6-45c9-8e0b-543ad6cb74ef": {
+      "ProjectGuid": "dbbbc7fd-d6e6-45c9-8e0b-543ad6cb74ef",
+      "DisplayName": "Lesson8CsharpHW",
+      "ColorIndex": 0
+    },
+    "23052612-0bb5-4199-8d5c-6f3b939b344c": {
+      "ProjectGuid": "23052612-0bb5-4199-8d5c-6f3b939b344c",
+      "DisplayName": "Task2",
+      "ColorIndex": 1
+    },
+    "5e33b44a-7db1-4038-b0d6-3c89e172d180": {
+      "ProjectGuid": "5e33b44a-7db1-4038-b0d6-3c89e172d180",
+      "DisplayName": "Task3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
